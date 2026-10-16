@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 2 dell dell 4096 Oct 16 17:30 .
+drwxr-xr-x 8 dell dell 4096 Oct 16 17:23 ..
+-rw-r--r-- 1 dell dell    0 Oct 16 17:30 backup.log
+-rwxr-xr-x 1 dell dell   44 Oct 16 17:29 backup.sh
+-rw------- 1 dell dell   21 Oct 16 17:25 secret.txt
